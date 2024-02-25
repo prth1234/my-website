@@ -54,7 +54,7 @@ Welcome to my personal website repository - where creativity meets functionality
 
 ## 🌐 Live Demo
 
-Explore the live version of my website at https://main--harmonious-cobbler-d6551f.netlify.app/
+Explore the live version of my website at [https://prth123.github.io/my-website/](https://prth1234.github.io/my-website/)
 
 ## 🤝 Contributing
 
