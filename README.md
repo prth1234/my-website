@@ -2,7 +2,7 @@
 
 # My Website - Personal Portfolio Project
 
-Check out: https://prth123.github.io/my-website/
+Check out: [https://prth123.github.io/my-website/](https://prth1234.github.io/my-website/)
 
 Welcome to my personal website repository - where creativity meets functionality. Crafted with passion and code, this project serves as my digital playground and professional showcase.
 
